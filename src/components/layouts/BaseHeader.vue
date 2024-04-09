@@ -4,8 +4,8 @@ import { toggleDark } from "~/composables";
 
 <template>
   <el-menu class="el-menu-demo" mode="horizontal">
-    <el-menu-item index="1">Element Plus</el-menu-item>
-    <el-sub-menu index="2">
+    <el-menu-item index="1">月亮语音</el-menu-item>
+    <!-- <el-sub-menu index="2">
       <template #title>Workspace</template>
       <el-menu-item index="2-1">item one</el-menu-item>
       <el-menu-item index="2-2">item two</el-menu-item>
@@ -26,6 +26,6 @@ import { toggleDark } from "~/composables";
       >
         <i inline-flex i="dark:ep-moon ep-sunny" />
       </button>
-    </el-menu-item>
+    </el-menu-item> -->
   </el-menu>
 </template>
